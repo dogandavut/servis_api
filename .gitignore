@@ -1,0 +1,22 @@
+# Python derleyici kalıntıları
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Sanal ortamlar
+venv/
+env/
+
+# IDE/editor dosyaları
+.vscode/
+*.code-workspace
+
+# Gizli veriler
+.env
+*.sqlite
+*.db
+
+# PDF, log, cache vb.
+*.log
+*.pdf
+.cache/
